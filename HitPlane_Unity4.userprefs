@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Game\CameraMove.cs">
+    <Files>
+      <File FileName="Assets\Code\Game\KbInput.cs" Line="26" Column="9" />
+      <File FileName="Assets\Code\Interface\IKeyBoardInput.cs" Line="8" Column="3" />
+      <File FileName="Assets\Main.cs" Line="20" Column="18" />
+      <File FileName="Assets\Code\Game\Player.cs" Line="28" Column="97" />
+      <File FileName="Assets\Code\Game\PlayerCtrl.cs" Line="18" Column="24" />
+      <File FileName="Assets\Code\Game\Engine.cs" Line="18" Column="32" />
+      <File FileName="Assets\Code\Game\CameraMove.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
